@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.exe
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.deps.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.dll
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\29 12 2022 Homework.pdb
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.dll
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.pdb
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\29 12 2022 Homework.genruntimeconfig.cache

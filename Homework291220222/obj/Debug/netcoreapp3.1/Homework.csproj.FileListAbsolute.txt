@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+D:\Visual Studi Code Academy Lessons or\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+D:\Visual Studi Code Academy Lessons or\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
