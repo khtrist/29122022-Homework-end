@@ -1,0 +1,5 @@
+D:\Visual Studi Code Academy Lessons or\29122022 Homework\obj\Debug\netcoreapp3.1\STOREEE.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\29122022 Homework\obj\Debug\netcoreapp3.1\STOREEE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\29122022 Homework\obj\Debug\netcoreapp3.1\STOREEE.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\29122022 Homework\obj\Debug\netcoreapp3.1\STOREEE.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\29122022 Homework\obj\Debug\netcoreapp3.1\STOREEE.csproj.CoreCompileInputs.cache

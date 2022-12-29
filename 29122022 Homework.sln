@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISTORE", "ISTORE.csproj", "{40EED9F5-C7A9-4A19-9837-A52FDE7C15D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserApp", "C:\Users\SRT\Downloads\P232_18_Abstraction-master\P232_18_Abstraction-master\28122022\UserApp\UserApp.csproj", "{E74230AF-885C-4A83-AB72-2277D2B24849}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Новая папка1", "Новая папка1", "{4C50BD36-C215-428B-AAC7-C35914A8B8C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson", "C:\Users\SRT\Downloads\P232_18_Abstraction-master\P232_18_Abstraction-master\28122022\Lesson\Lesson.csproj", "{54900FDE-2BCE-477F-A8AF-175638AB8B13}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceLesson", "C:\Users\SRT\Downloads\P232_18_Abstraction-master\P232_18_Abstraction-master\28122022\InterfaceLesson\InterfaceLesson.csproj", "{1B13D393-7958-4B11-8C26-C50B6A34FF9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29122022Homework", "..\Homework\29122022Homework.csproj", "{E57B6952-21F2-4467-9AE4-75C90265DCAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EED9F5-C7A9-4A19-9837-A52FDE7C15D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EED9F5-C7A9-4A19-9837-A52FDE7C15D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EED9F5-C7A9-4A19-9837-A52FDE7C15D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EED9F5-C7A9-4A19-9837-A52FDE7C15D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74230AF-885C-4A83-AB72-2277D2B24849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74230AF-885C-4A83-AB72-2277D2B24849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74230AF-885C-4A83-AB72-2277D2B24849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74230AF-885C-4A83-AB72-2277D2B24849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54900FDE-2BCE-477F-A8AF-175638AB8B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54900FDE-2BCE-477F-A8AF-175638AB8B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54900FDE-2BCE-477F-A8AF-175638AB8B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54900FDE-2BCE-477F-A8AF-175638AB8B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B13D393-7958-4B11-8C26-C50B6A34FF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B13D393-7958-4B11-8C26-C50B6A34FF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B13D393-7958-4B11-8C26-C50B6A34FF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B13D393-7958-4B11-8C26-C50B6A34FF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E57B6952-21F2-4467-9AE4-75C90265DCAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57B6952-21F2-4467-9AE4-75C90265DCAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57B6952-21F2-4467-9AE4-75C90265DCAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57B6952-21F2-4467-9AE4-75C90265DCAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9880053F-A0A3-4AA8-80DA-511729D03709}
+	EndGlobalSection
+EndGlobal
